@@ -13,7 +13,7 @@ class Node{
         }
 };
 
-int main() {
+int main(){ 
     Node *head = NULL;
     int count=0;
     while(true){
